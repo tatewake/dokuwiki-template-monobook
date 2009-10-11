@@ -1,0 +1,29 @@
+8
+
+dir
+6
+http://svn.tatewake.com/dokuwiki/monobook/lang/sk
+http://svn.tatewake.com/dokuwiki
+
+
+
+2007-08-02T11:28:11.569807Z
+5
+terence
+
+
+svn:special svn:externals svn:needs-lock
+
+lang.php
+file
+
+
+
+
+2007-07-31T18:43:12.000000Z
+fa2f045fa83ca853e78443ca9640deb6
+2007-08-02T11:28:11.569807Z
+5
+terence
+has-props
+
